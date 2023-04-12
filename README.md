@@ -38,8 +38,8 @@ No primeiro dia, o especialista fará uma breve contextualização sobre as solu
 `ng serve > para executar`
 
 ## Criando os componentes do projeto
-`ng generate component components/header` ou `ng g c components/header`
-`ng g c components/post`
+`ng generate component components/header` ou `ng g c components/header` <br />
+`ng g c components/post` <br />
 `ng g c components/tweet`
 
 ## ContratoDeCompromisso
