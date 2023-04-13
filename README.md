@@ -19,14 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#Descrição-da-aula">Descrição da aula</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Instalando-o-angualr">Instalando o angular</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Criando-o-projeto">Criando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Criando-os-componentes-do-projeto">Criando os componentes do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ## Descrição da aula
 No primeiro dia, o especialista fará uma breve contextualização sobre as soluções Angular e iniciará o projeto com boas práticas de arquitetura de páginas componentizadas.
 
@@ -42,6 +34,9 @@ No primeiro dia, o especialista fará uma breve contextualização sobre as solu
 `ng g c components/post` <br />
 `ng g c components/tweet`
 
+## Criando os componentes do projeto
+`ng g c pages/home`
+
 ## Instalando o Tailwind 
 `npm install -D tailwindcss postcss autoprefixer`<br />
 `npx tailwindcss init`
@@ -55,8 +50,9 @@ No primeiro dia, o especialista fará uma breve contextualização sobre as solu
   },
   plugins: [],
 }`
-## ContratoDeCompromisso
 
 <br></br>
+<br></br>
+<p>#ContratoDeCompromisso</p>
 <br></br>
 Made by Jeciane Amorim [Get in touch!](https://jecianesilva.github.io/)
