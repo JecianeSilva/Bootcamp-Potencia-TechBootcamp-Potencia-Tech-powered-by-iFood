@@ -52,7 +52,7 @@ No primeiro dia, o especialista fará uma breve contextualização sobre as solu
 }`
 
 <br></br>
-<br></br>
+<div align="center">
 <p>#ContratoDeCompromisso</p>
-<br></br>
-Made by Jeciane Amorim [Get in touch!](https://jecianesilva.github.io/)
+<p>Made by <a href="https://jecianesilva.github.io/">Jeciane Amorim</a></p>
+</div>
