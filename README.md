@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>Potência Tech Angular Developer - Powered by iFood na DIO</h2>
-	<p>Dia 01: Seus Primeiros Componentes em Angular.</p>
+	<p>Mentoria Aula Parte 01: Seus Primeiros Componentes em Angular.</p>
 	<img alt="potencia-tech" title="potencia-tech" src="https://hermes.digitalinnovation.one/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" width="300px" />
 </div>
 
@@ -42,8 +42,20 @@ No primeiro dia, o especialista fará uma breve contextualização sobre as solu
 `ng g c components/post` <br />
 `ng g c components/tweet`
 
+## Instalando o Tailwind 
+`npm install -D tailwindcss postcss autoprefixer`<br />
+`npx tailwindcss init`
+## Configurando o tailwind
+`module.exports = {
+  content: [
+    "./src/**/*.{html,ts}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}`
 ## ContratoDeCompromisso
-
 
 <br></br>
 <br></br>
