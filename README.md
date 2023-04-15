@@ -19,37 +19,11 @@
   </a>
 </p>
 
-## Descrição da aula
-No primeiro dia, o especialista fará uma breve contextualização sobre as soluções Angular e iniciará o projeto com boas práticas de arquitetura de páginas componentizadas.
-
-## Instalando o angular
-`npm install -g @angular/cli`
-## Criando o projeto
-`ng new tw-aula`
-## Executando o projeto
-`ng serve > para executar`
-
-## Criando os componentes do projeto
-`ng generate component components/header` ou `ng g c components/header` <br />
-`ng g c components/post` <br />
-`ng g c components/tweet`
-
-## Criando os componentes do projeto
-`ng g c pages/home`
-
-## Instalando o Tailwind 
-`npm install -D tailwindcss postcss autoprefixer`<br />
-`npx tailwindcss init`
-## Configurando o tailwind
-`module.exports = {
-  content: [
-    "./src/**/*.{html,ts}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}`
+## Conteudo visto durante o evento e no projeto
+- Estruturar um Projeto Angular
+- Criar components dinâmicos
+- Services
+- Diretivas Angular
 
 <br></br>
 <div align="center">
